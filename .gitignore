@@ -1,0 +1,6 @@
+c-lessons/*/*
+!c-lessons/*/makefile
+!c-lessons/*/*.*
+c-lessons/*/*.so
+
+.idea
